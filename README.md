@@ -1,4 +1,4 @@
-# mostActiveCookieFinder
+# Most Active Cookie Finder
 
 # Overview
 
