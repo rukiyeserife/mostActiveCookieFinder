@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: most.active.cookie.finder.MostActiveCookieDataModelFinderProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.355 s - in most.active.cookie.finder.MostActiveCookieDataModelFinderProjectApplicationTests
